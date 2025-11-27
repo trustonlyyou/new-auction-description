@@ -1,7 +1,5 @@
 # new-auction-description
 
-# New Auction System
-
 ## 시스템 아키텍처
 ```
 ┌─────────────────────────────────────────────┐
